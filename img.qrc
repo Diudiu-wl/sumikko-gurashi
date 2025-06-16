@@ -15,7 +15,6 @@
         <file>images/k0.png</file>
         <file>images/k1.png</file>
         <file>images/k2.png</file>
-        <file>images/k3.png</file>
         <file>images/ke0.png</file>
         <file>images/ke1.png</file>
         <file>images/ke2.png</file>
@@ -27,5 +26,6 @@
         <file>images/g4.png</file>
         <file>images/k4.png</file>
         <file>images/w4.png</file>
+        <file>images/k3.png</file>
     </qresource>
 </RCC>
